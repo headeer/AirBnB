@@ -14,8 +14,6 @@ export default function Home({exploreData, cardsData}) {
                 <title>AirBnB</title>
                 <link rel="icon" href="/favicon.ico"/>
             </Head>
-
-
             <Header/>
             <Banner/>
 
